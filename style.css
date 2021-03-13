@@ -4,3 +4,4 @@ body {
 header{ text-align: center; color: #A60C00; ;}
 footer h1{ font-size: 20px; background-color: #FF4747; color: #6C0300	;}
 main p{ font-size: 21px; color:#6C0300 ;}
+a{ border: 2px solid red; background-color: #67E667; color: black; text-decoration: none;}
